@@ -1,0 +1,12 @@
+console.log("Hello Sami");
+console.log("Samiullah");
+let a = 10;
+let b = 20;
+let sum = a+b;
+// console.log("Sum is =",sum);
+let output = `The total sum is:${sum} rupees`;
+console.log(output);
+console.log(a++);
+console.log(a);
+console.log(++a);
+console.log(a);
