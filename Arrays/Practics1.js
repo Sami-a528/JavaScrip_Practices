@@ -1,0 +1,12 @@
+let start = ["january", "july", "march", "august"];
+let final = start.shift();
+console.log(final);
+console.log(start);
+let some = start.shift();
+console.log(some);
+console.log(start);
+let fin = start.unshift("May");
+console.log(fin);
+let newValue = start.unshift("julay");
+console.log(newValue);
+console.log(start);
